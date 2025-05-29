@@ -29,7 +29,6 @@ An interactive and visually rich **Power BI dashboard** built using global COVID
   - `Deaths`  
   - `Recovered`  
   - `Active`  
-- **Source:** *(You can mention the original source if known, or say “public dataset”)*
 
 ---
 
