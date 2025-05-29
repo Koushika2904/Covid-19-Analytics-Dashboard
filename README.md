@@ -46,4 +46,17 @@ An interactive and visually rich **Power BI dashboard** built using global COVID
 2. Clone or download this repository
 3. Open the file: `COVID19_Dashboard.pbix`
 4. Explore interactive visuals, maps, and filters
+   
+---
+
+## 👤 Author
+
+- **Koushika** – Power BI Developer  
+- [LinkedIn](https://linkedin.com/in/koushika-thangavelu-747b5a259/)  
+
+---
+
+## 📄 License
+
+This project is for educational and portfolio purposes only. Dataset used for demonstration was publicly available or anonymized.
 
